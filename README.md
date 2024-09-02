@@ -1,1 +1,3 @@
 # Project ANGELIA
+
+Project Angelia is a community-driven initiative focused on making conversations about consent easy and accessible for everyone. Through free resources like stickers, posters, and an informative website, we aim to spread awareness about the importance of clear, enthusiastic consent. Our project uses creative, eye-catching designs to encourage people to share these messages in their communities, at events, and online. By getting involved, you can help create a culture where understanding and respecting boundaries is the norm. Join us in promoting positive change, one sticker at a time.
