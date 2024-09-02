@@ -300,7 +300,7 @@
     * ------------------------------------------------------ */
     (function ssInit() {
 
-        ssPreloader();
+        // ssPreloader();
         ssMoveHeader();
         ssMobileMenu();
         ssScrollSpy();
