@@ -79,6 +79,7 @@
 :root {
     --font-1: "Public Sans", Sans-serif;
     --font-2: "Castoro", Serif;
+    --font-3: "Permanent Marker", Cursive;
 
   /* monospace
    */
@@ -1229,7 +1230,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family           : var(--font-2);
+    font-family           : var(--font-3);
     font-weight           : 400;
     color                 : var(--color-text-dark);
     font-variant-ligatures: common-ligatures;
@@ -1303,7 +1304,7 @@ h5,
 
 h6,
 .h6 {
-    font-family   : var(--font-1);
+    font-family   : var(--font-3);
     font-weight   : 600;
     font-size     : var(--text-sm);
     line-height   : var(--vspace-0_75);
@@ -2696,7 +2697,7 @@ td:last-child {
 }
 
 .text-pretitle {
-    font-family   : var(--font-1);
+    font-family   : var(--font-3);
     font-weight   : 600;
     font-size     : var(--text-size);
     line-height   : var(--vspace-1);
@@ -2733,7 +2734,7 @@ td:last-child {
 
 .section-header::before {
     content       : attr(data-num);
-    font-family   : var(--font-1);
+    font-family   : var(--font-3);
     font-weight   : 600;
     font-size     : 10em;
     letter-spacing: -0.05em;
